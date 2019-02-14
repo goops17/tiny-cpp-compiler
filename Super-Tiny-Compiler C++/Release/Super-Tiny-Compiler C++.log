@@ -1,0 +1,14 @@
+﻿  Super-Tiny-Compiler C++.cpp
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(27): warning C4129: '(': unrecognized character escape sequence
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  13 of 302 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Super-Tiny-Compiler C++.vcxproj -> C:\Users\gchitaure\Desktop\Super-Tiny-Compiler C++\Release\Super-Tiny-Compiler C++.exe

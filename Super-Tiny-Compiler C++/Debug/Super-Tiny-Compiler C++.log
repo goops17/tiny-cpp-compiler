@@ -1,0 +1,5 @@
+﻿  Super-Tiny-Compiler C++.cpp
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(31): warning C4129: '(': unrecognized character escape sequence
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\gchitaure\desktop\super-tiny-compiler c++\super-tiny-compiler c++\super-tiny-compiler c++.cpp(37): warning C4101: 'ch': unreferenced local variable
+  Super-Tiny-Compiler C++.vcxproj -> C:\Users\gchitaure\Desktop\Super-Tiny-Compiler C++\Debug\Super-Tiny-Compiler C++.exe
